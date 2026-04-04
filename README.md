@@ -1,15 +1,15 @@
 # Rubicon-Internship
 A collection of Python programs and mini projects developed during the Rubicon Skill Development Internship.
 
-# 💻 Rubicon Skill Development Internship – Python Projects
+# Rubicon Skill Development Internship – Python Projects
 
-## 📖 Overview
+##  Overview
 
 This repository contains a collection of Python programs and mini projects developed during the **Rubicon Skill Development Internship**. The work focuses on building a strong foundation in programming and enhancing problem-solving abilities through practical implementation.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To develop a solid understanding of Python programming fundamentals
 * To apply logical thinking in solving real-world problems
@@ -17,7 +17,7 @@ This repository contains a collection of Python programs and mini projects devel
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * Command Line Interface (CLI)
@@ -25,7 +25,7 @@ This repository contains a collection of Python programs and mini projects devel
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The repository includes multiple Python files such as:
 
@@ -35,7 +35,7 @@ The repository includes multiple Python files such as:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ python filename.py
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 * Improved understanding of Python syntax and structure
 * Enhanced debugging and problem-solving skills
@@ -71,13 +71,13 @@ python filename.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Om Tarade**
 
 ---
 
-## 🙏 Acknowledgment
+## Acknowledgment
 
 I would like to express my gratitude to the **Rubicon Skill Development Program** for providing valuable guidance and learning opportunities during the internship.
 
